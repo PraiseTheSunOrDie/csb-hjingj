@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://praisethesunordie.github.io/csb-hjingj/static/css/main.bb32c664.chunk.css",
+    "main.js": "https://praisethesunordie.github.io/csb-hjingj/static/js/main.8f06968b.chunk.js",
+    "main.js.map": "https://praisethesunordie.github.io/csb-hjingj/static/js/main.8f06968b.chunk.js.map",
+    "runtime-main.js": "https://praisethesunordie.github.io/csb-hjingj/static/js/runtime-main.8d7df894.js",
+    "runtime-main.js.map": "https://praisethesunordie.github.io/csb-hjingj/static/js/runtime-main.8d7df894.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://praisethesunordie.github.io/csb-hjingj/static/css/2.cbedb215.chunk.css",
+    "static/js/2.679395e3.chunk.js": "https://praisethesunordie.github.io/csb-hjingj/static/js/2.679395e3.chunk.js",
+    "static/js/2.679395e3.chunk.js.map": "https://praisethesunordie.github.io/csb-hjingj/static/js/2.679395e3.chunk.js.map",
+    "index.html": "https://praisethesunordie.github.io/csb-hjingj/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://praisethesunordie.github.io/csb-hjingj/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.bb32c664.chunk.css.map": "https://praisethesunordie.github.io/csb-hjingj/static/css/main.bb32c664.chunk.css.map",
+    "static/js/2.679395e3.chunk.js.LICENSE.txt": "https://praisethesunordie.github.io/csb-hjingj/static/js/2.679395e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7df894.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.679395e3.chunk.js",
+    "static/css/main.bb32c664.chunk.css",
+    "static/js/main.8f06968b.chunk.js"
+  ]
+}
